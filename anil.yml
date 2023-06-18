@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: anildevops1234/anil:latest
+          tags: anildevops123/anil:latest
